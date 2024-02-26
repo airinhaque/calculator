@@ -1,16 +1,39 @@
-# calculator
+# Simple Calculator App
 
-A new Flutter project.
+This is a simple calculator app developed using Flutter, a cross-platform mobile application development framework. The app allows users to perform basic arithmetic operations such as addition and subtraction.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Basic Arithmetic Operations**: Users can add and subtract numbers using the calculator.
+- **Clear Functionality**: The app provides buttons to clear the input and reset the calculation.
+- **User-Friendly Interface**: The user interface is designed to be intuitive and easy to use.
+- **Responsive Design**: The app is designed to work seamlessly across different screen sizes and orientations.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Use
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Enter numbers using the keypad.
+2. Use the addition (+) and subtraction (-) buttons to perform calculations.
+3. Press the equal (=) button to see the result.
+4. Press the clear (AC) button to reset the calculator.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- **Flutter**: Flutter is Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart Programming Language**: Dart is the programming language used for developing Flutter apps.
+- **math_expressions Package**: The `math_expressions` package is used for parsing and evaluating mathematical expressions.
+
+## Installation
+
+To run the app locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Open the project in Visual Studio Code or any IDE of your choice.
+3. Ensure that you have Flutter and Dart installed on your system.
+4. Run the app using the `flutter run` command.
+
+## Contributions
+
+Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+
+
